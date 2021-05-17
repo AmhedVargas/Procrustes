@@ -1,2 +1,2 @@
-# Procrustes
-Procrustes analysis on SNP datasets
+# Procrustes analysis on SNPs from Reference panels
+Procrustes analysis derives its name 
